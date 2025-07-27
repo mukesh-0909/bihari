@@ -29,7 +29,7 @@ export default function Header({theme}) {
             </h2>
 
             <h2 className="title">
-              <a href="/">Where in the Big world  ?</a>
+              <a href="/">Where in the big world  ?</a>
             </h2>
 
             <p className="theme-changer" onClick={()=>{ 
