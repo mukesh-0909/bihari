@@ -1,0 +1,12 @@
+.country-card-shimmer {
+    background-color: var(--elements-color);
+    border-radius: 8px;
+    width: 250px;
+    height: 350px;
+    background-color: #CCC;
+    padding-bottom: 24px;
+    transition: all .2s ease-in-out;
+    display: inline-block;
+    overflow: hidden;
+    box-shadow: 0 0 8px #0003;
+}
